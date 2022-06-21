@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<title> web pages with hyperlinks</title>
+</head>
+<body>
+<h3><center><strong>use of hperlinks in different ways</strong></center></h3>
+<br>
+<p>simple hyperlink</p>
+<a href="https://github.com/">google</a>
+<p>hperlink with target attribute</p>
+<a href="https://github.com/" target="_blank">click here</a>
+<p>hperlnk with image element</p>
+<a href="https://github.com/"><img src="tablet.jpg" width="300" height="400" alt="tablet image"></a>
+<p>hyperlink for sending mail</p>
+<a href="mailto:shaikhsaud309@gmail.com">send mail</a>
+<p>hperlink with tooltip</p>
+<a href="https://github.com/" title="github">click here</a>
+<pre>
+i am dg
+djdff ff ff
+dk ff jff
+</pre>
+</body>
+</html>
